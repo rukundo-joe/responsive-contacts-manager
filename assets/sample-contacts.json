@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "exportedAt": 0,
+  "contacts": [
+    { "id": "seed-1", "name": "Ada Lovelace", "email": "ada@analytical.org", "phone": "+44 20 7946 0958", "website": "computing-history.org", "tags": ["vip", "math"], "createdAt": 1700000000000, "updatedAt": 1700000000000 },
+    { "id": "seed-2", "name": "Alan Turing", "email": "alan@bletchley.uk", "phone": "+44 1908 640404", "website": "https://www.tnmoc.org", "tags": ["lead", "crypto"], "createdAt": 1700000100000, "updatedAt": 1700000100000 },
+    { "id": "seed-3", "name": "Grace Hopper", "email": "grace@navy.mil", "phone": "+1 (202) 555-0148", "website": "", "tags": ["vip", "compilers"], "createdAt": 1700000200000, "updatedAt": 1700000200000 },
+    { "id": "seed-4", "name": "Jean-Luc Picard", "email": "jl.picard@enterprise.fed", "phone": "", "website": "memory-alpha.org", "tags": ["client"], "createdAt": 1700000300000, "updatedAt": 1700000300000 },
+    { "id": "seed-5", "name": "Zoë Müller", "email": "zoe.muller@example.de", "phone": "+49 30 901820", "website": "example.de", "tags": ["lead", "design"], "createdAt": 1700000400000, "updatedAt": 1700000400000 },
+    { "id": "seed-6", "name": "Katherine Johnson", "email": "k.johnson@nasa.gov", "phone": "+1 (757) 555-0199", "website": "nasa.gov", "tags": ["vip", "math"], "createdAt": 1700000500000, "updatedAt": 1700000500000 }
+  ]
+}
