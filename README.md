@@ -176,6 +176,16 @@ the whole thing on a phone-sized screen with only the keyboard.
 It's a static site, deployed on **GitHub Pages** from the `main` branch:
 https://rukundo-joe.github.io/responsive-contacts-manager/
 
+## Demo
+
+A ~2.5 min screen recording walking through navigation, the add form with live
+validation, regex search and its edge cases, notes, edit/delete, JSON
+import/export, persistence across reload, keyboard use, and the responsive
+breakpoints in light and dark.
+
+- In the repo: [`demo/demo.mp4`](demo/demo.mp4)
+- Direct link: https://rukundo-joe.github.io/responsive-contacts-manager/demo/demo.mp4
+
 ## License
 
 MIT.
