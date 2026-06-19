@@ -1,0 +1,12 @@
+{
+  "name": "responsive-contacts-manager",
+  "version": "1.0.0",
+  "description": "Accessible, responsive contact manager in vanilla JS: localStorage, JSON import/export, regex validation and safe regex search.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test": "node tests/test.js",
+    "start": "python3 -m http.server 8080"
+  },
+  "license": "MIT"
+}

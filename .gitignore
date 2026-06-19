@@ -1,0 +1,15 @@
+# dependencies (none required, but keep it clean)
+node_modules/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# logs / temp
+*.log
+.cache/
+dist/
+.vercel
