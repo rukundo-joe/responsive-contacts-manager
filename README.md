@@ -7,7 +7,7 @@ framework, no build step. It saves your contacts in the browser, lets you import
 and export them as JSON, validates the form with regular expressions, and has a
 search box that can run real regex patterns safely.
 
-**Live demo:** https://responsive-contacts-manager.vercel.app
+**Live demo:** https://rukundo-joe.github.io/responsive-contacts-manager/
 
 <p align="center">
   <img src="assets/screenshots/desktop-light.png" alt="Desktop, light theme" width="100%">
@@ -173,7 +173,8 @@ the whole thing on a phone-sized screen with only the keyboard.
 
 ## Deployment
 
-It's a static site. It's live on Vercel: https://responsive-contacts-manager.vercel.app
+It's a static site, deployed on **GitHub Pages** from the `main` branch:
+https://rukundo-joe.github.io/responsive-contacts-manager/
 
 ## License
 
